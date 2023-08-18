@@ -72,17 +72,17 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 5. Apply the knowledge gained from the tutorial in your own projects.
 
 ## Deployed GitHub-Gist Link:
-[Deployed GitHub-Gist Link: Click Here]
+
 
 ## GitHub Repository:
-[GitHub Repository: Click Here] 
+
 
 
 ## Regex in JavaScript: A Comprehensive Tutorial by Anne Wynter
 ### Chapter 01: Matching an Email: Understanding the Components by Anne WynterGIF
 
 ### Figure 1. Deployed Public GitHub Gist Screenshot.
-![](./Images/GitHub-Gist-Screenshot.png)
+
 
 ## Installation Process:
 **Set up a GitHub Gist:**
@@ -102,9 +102,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 By completing this challenge, you will not only have a better understanding of the email validation regex but also gain experience in setting up and sharing a GitHub Gist.
 
 ## Built With:
-- Saiyan Pride
+
 - GitHub Gist: [How to Create a Gist?](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
-- License Badge: [Shields.io](https://shields.io/)
 - Visual Studio Code: [Website](https://code.visualstudio.com/)
 
 ## What I Learned:
