@@ -301,3 +301,7 @@ throughout the example, the regex accurately matches valid email addresses that 
 
 #### Conclusion
 Character escapes serve a crucial role for ensuring accurately matching text patterns by interpreting special characters as literals. They help suppress the special meanings of metacharacters and represent characters that can't be directly typed. Thereby, ensuring the proper functioning of regex expressions that contribute to reliable email validation. 
+
+### Author 
+Anne Mary Wynter 
+Github: https://github.com/annemarywynter1986

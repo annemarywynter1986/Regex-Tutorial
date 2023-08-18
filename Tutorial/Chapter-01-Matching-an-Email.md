@@ -211,3 +211,6 @@ We conclude, the email matching regex **featured in this tutorial:** `/^([a-z0-9
 
 By combining these components, the regex ensures proper structure and formality for email addresses, making it a valuable tool in a variety of applications throuhgout your academic and professional career. Upon completing this tutorial, you'll gain a greater knowledge and understanding of how regex functions to validate and confirm the entry of a valid email addresses.
 
+### Author 
+Anne Mary Wynter 
+Github: https://github.com/annemarywynter1986
