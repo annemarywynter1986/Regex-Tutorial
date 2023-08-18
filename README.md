@@ -19,6 +19,8 @@ In this Regex Tutorial, you will learn how to validate the featured email addres
 - [Acknowledgments](#Acknowledgments)
 
 # Overview
+![Screen Shot 2023-08-18 at 2 04 00 PM](https://github.com/annemarywynter1986/Regex-Tutorial/assets/130412307/2a8e32fd-9f23-4093-be80-c58e8dcc7293)
+
 
 ## The Challenge
 In this challenge, you will utilize the knowledge gained from the tutorial and apply it to the creation of a comprehensive tutorial on email validation using regex. The following steps were taken to achieve this:
@@ -59,9 +61,14 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ```
 
 ## Regex in JavaScript: A Comprehensive Tutorial by Anne Wynter 
-### Chapter 01: Matching an Email: Understanding the Components by Anne Wynter GIF
+### Chapter 01: Matching an Email: Understanding the Components by Anne Wynte
 
-#### The following animation demonstrates the GitHub Gist .md file:
+![Screen Shot 2023-08-18 at 2 25 51 PM](https://github.com/annemarywynter1986/Regex-Tutorial/assets/130412307/0283f8f9-8190-43fc-ad32-de99de6afcf6)
+
+
+#### ### Figure 1. Deployed Public GitHub Gist Screenshot.
+![Screen Shot 2023-08-18 at 2 26 13 PM](https://github.com/annemarywynter1986/Regex-Tutorial/assets/130412307/d6f21634-6bbf-4049-aad8-041148ccf6c3)
+
 
 
 ## Usage Instructions:
@@ -72,16 +79,11 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 5. Apply the knowledge gained from the tutorial in your own projects.
 
 ## Deployed GitHub-Gist Link:
-
+https://gist.github.com/annemarywynter1986/136de612031d30b619b3ab033b7b5254
 
 ## GitHub Repository:
 https://github.com/annemarywynter1986/Regex-Tutorial.git
 
-
-## Regex in JavaScript: A Comprehensive Tutorial by Anne Wynter
-### Chapter 01: Matching an Email: Understanding the Components by Anne WynterGIF
-
-### Figure 1. Deployed Public GitHub Gist Screenshot.
 
 
 ## Installation Process:
