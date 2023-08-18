@@ -79,7 +79,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 5. Apply the knowledge gained from the tutorial in your own projects.
 
 ## Deployed GitHub-Gist Link:
-https://gist.github.com/annemarywynter1986/136de612031d30b619b3ab033b7b5254
+[https://gist.github.com/annemarywynter1986/136de612031d30b619b3ab033b7b5254](https://gist.github.com/annemarywynter1986/136de612031d30b619b3ab033b7b5254)
 
 ## GitHub Repository:
 https://github.com/annemarywynter1986/Regex-Tutorial.git
